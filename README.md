@@ -9,3 +9,4 @@ Companion Repo to a course hosted on Udemy.com.
 * firebase login
 * firebase init
 * firebase deploy (deploy functions)
+* https://us-central1-one-time-password-4bdb4.cloudfunctions.net/helloWorld
