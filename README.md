@@ -1,7 +1,7 @@
 # AdvancedReactNative
 
 Companion Repo to a course hosted on Udemy.com.  
-
+`uid` - unique id for a user
 ## Installing Firebase
 ### CLI
 * sudo npm install -g firebase-tools
