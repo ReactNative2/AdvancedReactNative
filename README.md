@@ -10,6 +10,7 @@ Companion Repo to a course hosted on Udemy.com.
 * firebase init
 * firebase deploy (deploy functions)
 * https://us-central1-one-time-password-4bdb4.cloudfunctions.net/helloWorld
+* npm install --save twilio@3.0.0-rc.13
 
 ## ES6
 ### Arrow Functions
