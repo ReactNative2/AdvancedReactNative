@@ -12,6 +12,7 @@ Companion Repo to a course hosted on Udemy.com.
 * https://us-central1-one-time-password-4bdb4.cloudfunctions.net/helloWorld
 * npm install --save twilio@3.0.0-rc.13
 * install `React-Native elements` => npm install --save react-native-elements
+* npm install react-native
 
 ## ES6
 ### Arrow Functions
